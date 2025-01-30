@@ -1,0 +1,46 @@
+/* Black and Violet Theme */
+body {
+  background-color: black;
+  color: white;
+}
+
+.navbar {
+  background-color: #6a0dad; /* Violet */
+}
+
+.navbar-brand,
+.nav-link {
+  color: white !important;
+}
+
+.navbar-brand:hover,
+.nav-link:hover {
+  color: #ffccff !important; /* Light Violet */
+}
+
+.btn-primary {
+  background-color: #6a0dad; /* Violet */
+  border-color: #6a0dad;
+}
+
+.btn-primary:hover {
+  background-color: #4b006e;
+  border-color: #4b006e;
+}
+
+.btn-outline-dark {
+  border-color: #6a0dad;
+  color: #6a0dad;
+}
+
+.btn-outline-dark:hover {
+  background-color: #6a0dad;
+  color: white;
+}
+.white-box {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
